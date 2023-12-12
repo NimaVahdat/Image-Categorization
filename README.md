@@ -5,6 +5,8 @@ The Image-Categorization project employs a Deep Spiking Neural Network (DSNN) fo
 ## Results
 Caltech101: 96.296% accuracy
 MNIST: 98.260% accuracy
+
+
 For detailed information about the Spyketorch framework, please visit [SpykeTorch](https://github.com/miladmozafari/SpykeTorch) GitHub.
 
 This project showcases the effectiveness of a Deep Spiking Neural Network in image categorization, achieving high accuracy on both MNIST and Caltech101 datasets.
