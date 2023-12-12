@@ -1,12 +1,10 @@
-# Image-Categorization
-## Image Categorization using Deep Spiking Neural Network.
-This project classifies classes in MNIST and Caltech101 datasets using Spyketorch framework for extracting features by creating a deep sipiking neural network and then classifying the classes using Linear SVM.
+# Image-Categorization using Deep Spiking Neural Network
+## Project Overview
+The Image-Categorization project employs a Deep Spiking Neural Network (DSNN) for classifying images in the MNIST and Caltech101 datasets. Leveraging the Spyketorch framework, this project extracts features by creating a deep spiking neural network, followed by classifying the classes using Linear Support Vector Machines (SVM).
 
-Results:
+## Results
+Caltech101: 96.296% accuracy
+MNIST: 98.260% accuracy
+For detailed information about the Spyketorch framework, please visit [SpykeTorch](https://github.com/miladmozafari/SpykeTorch) GitHub.
 
-Caltech101 -> 96.296%
-
-MNIST -> 98.260%
-
-For more information about Spyketorch framework visit:
-https://github.com/miladmozafari/SpykeTorch
+This project showcases the effectiveness of a Deep Spiking Neural Network in image categorization, achieving high accuracy on both MNIST and Caltech101 datasets.
